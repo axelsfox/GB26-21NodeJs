@@ -12,5 +12,8 @@
   "bugs": {
     "url": "https://github.com/axelsfox/GB26-21NodeJs/issues"
   },
-  "homepage": "https://github.com/axelsfox/GB26-21NodeJs#readme"
+  "homepage": "https://github.com/axelsfox/GB26-21NodeJs#readme",
+  "dependencies": {
+    "colors": "^1.4.0"
+  }
 }
