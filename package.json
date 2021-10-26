@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "task1": "node index.js"
   },
   "repository": "",
   "author": "",
@@ -15,5 +16,8 @@
   "homepage": "https://github.com/axelsfox/GB26-21NodeJs#readme",
   "dependencies": {
     "colors": "^1.4.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.1.0"
   }
 }
