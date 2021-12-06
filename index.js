@@ -7,7 +7,6 @@ let flag = "red";
 
 if (isNaN(fistNum) || isNaN(secNum)){
   console.log(colors.green("Нужно ввести два числа"));
-  return
 };
 
 nextNum:
